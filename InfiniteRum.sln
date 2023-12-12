@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{41A5D661-0D5A-43DF-BAF4-0F2D5AAEF67C}") = "InfiniteRum", "InfiniteRum\InfiniteRum.csproj", "{B2AA1290-B515-4CA0-8030-82B3F31367A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AA1290-B515-4CA0-8030-82B3F31367A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AA1290-B515-4CA0-8030-82B3F31367A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AA1290-B515-4CA0-8030-82B3F31367A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AA1290-B515-4CA0-8030-82B3F31367A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBFBFFB2-AEF4-4F09-A22D-E173B2B5FDC8}
+	EndGlobalSection
+EndGlobal

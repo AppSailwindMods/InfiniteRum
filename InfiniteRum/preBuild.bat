@@ -1,0 +1,2 @@
+if not exist "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\InfiniteRum" mkdir "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\InfiniteRum"
+del /q "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\InfiniteRum\InfiniteRum.dll"
